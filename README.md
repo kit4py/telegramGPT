@@ -18,6 +18,8 @@ Usage:
 3. Deploy the code to your preferred hosting platform (e.g., Heroku, AWS, or your own server) or run on your Laptop.
 4. Start the bot and invite users to chat with it on Telegram.
 
+*you can just copy the code from main.py and run it in your IDE, then go to telegram and start your bot
+
 Please note that the OpenAI API has rate limits and usage guidelines, so be mindful of them to ensure a smooth user experience. For more details, refer to the OpenAI API documentation.
 
 Disclaimer:
